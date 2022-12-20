@@ -4,7 +4,7 @@ import { Button, Dialog, IconButton, Stack, Typography } from '@mui/material';
 
 import CloseIcon from '@mui/icons-material/Close';
 
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 
 import PropTypes from 'prop-types';
 
